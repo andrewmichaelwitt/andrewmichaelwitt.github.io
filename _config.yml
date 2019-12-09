@@ -1,11 +1,11 @@
 # Site settings
 author: Andrew Witt
-title: 
+title: CodingWit
 header-img: img/home-bg.png
 email: andrewmichaelwitt@gmail.com
 copyright_name: Andrew Witt
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A story of Andrew Witt's progress in coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  andrewmichaelwitt
